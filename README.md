@@ -70,6 +70,10 @@ For more information on using the Angular CLI, including detailed command refere
 ### Login Page
 ![Screenshot 1](images/login.png)
 
+### Login Details
+#### Username: harinreddy555
+#### Password: harin123
+
 ### Wrong Password
 ![Screenshot 7](images/WrongPassword.png)
 

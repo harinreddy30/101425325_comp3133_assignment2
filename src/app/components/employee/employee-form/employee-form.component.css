@@ -1,12 +1,12 @@
 .employee-form-container {
   padding: 1rem;
-  max-width: 1000px; /* Widened a bit to accommodate two-column layout */
+  max-width: 1000px;
   margin: 0 auto;
   background: linear-gradient(135deg, #f5f5f5, #e0e0e0);
 }
 
 mat-card {
-  max-width: 800px; /* Increased for wider form */
+  max-width: 800px;
   margin: 0 auto;
   background-color: #ffffff;
   border-radius: 8px;
@@ -28,7 +28,6 @@ mat-card-title {
 }
 
 form {
-  /* Two-column grid for larger screens */
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 0.75rem;

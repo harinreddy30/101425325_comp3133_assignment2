@@ -1,5 +1,7 @@
 # 101425325Comp3133Assignment2
 
+## Screenshots of the working application are pasted at the End.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
 
 ## Development server
@@ -57,3 +59,33 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+## Screenshots
+
+### Signup
+![Screenshot 6](images/signup.png)
+
+### Login Page
+![Screenshot 1](images/login.png)
+
+### Wrong Password
+![Screenshot 7](images/WrongPassword.png)
+
+### Employee List
+![Screenshot 2](images/EmpList.png)
+
+### Add Employee
+![Screenshot 3](images/add.png)
+
+### Edit Employee
+![Screenshot 4](images/edit.png)
+
+### Filtering Search
+![Screenshot 5](images/filter1.png)
+![Screenshot 8](images/filter2.png)
+
+### Employee Details
+![Screenshot 9](images/details.png)
+
